@@ -5,7 +5,7 @@ window._config = {
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
-        invokeUrl: 'https://abcdefghijkl.execute-api.us-east-1.amazonaws.com/Prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://2nkt5nrnm8.execute-api.us-west-2.amazonaws.com/Prod' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     },
     approval: {
         email: 'earl@eeg3.net'
